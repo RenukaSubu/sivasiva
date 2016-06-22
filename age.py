@@ -1,0 +1,1 @@
+print 'age is 50'
